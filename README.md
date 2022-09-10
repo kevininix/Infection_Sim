@@ -13,13 +13,13 @@ Other settings include a mortality rate, a velocity randomizer (for random walk)
 <img src="/images/sim1.gif" alt="Animated gif of the simulation." width="300" height="250"/>
 </p>
 
-**Same simulation with randomize = False: **
+**Same simulation with randomize = False**:
 
 <p align="center">
 <img src="/images/sim1_1.gif" alt="Animated gif of the simulation." width="300" height="250"/>
 </p>
 
-**With 70% of the population in quarantine: **
+**With 70% of the population in quarantine**:
 
 <p align="center">
 <img src="/images/sim2.gif" alt="Animated gif of the simulation." width="300" height="250"/>

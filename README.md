@@ -7,4 +7,4 @@ Other settings include a mortality rate, a velocity randomizer (for random walk)
 
 Simulation in action with the above settings:
 
-<img src="/images/sim1.gif" alt="Animated gif of the simulation." title="">
+<img src="/images/sim1.gif" alt="Animated gif of the simulation." style = "max-width: 300px">

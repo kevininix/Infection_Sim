@@ -5,6 +5,14 @@ Other settings include a mortality rate, a velocity randomizer (for random walk)
 
 <img src="/images/settings.png" alt="Image of the settings with susceptible people set to 100, mortality rate to 20 percent, quarantined to zero, infected to 2, speed of recovery/death to 200 and randomizer set to True." title="">
 
-Simulation in action with the above settings:
+**Simulation in action with the above settings** (graphical errors from the screen recorder used to make the gifs):
 
 <img src="/images/sim1.gif" alt="Animated gif of the simulation." width="300" height="250"/>
+
+**Same simulation with randomize = False**
+
+<img src="/images/sim1_1.gif" alt="Animated gif of the simulation." width="300" height="250"/>
+
+**With 70% of the population in quarantine**
+
+<img src="/images/sim2.gif" alt="Animated gif of the simulation." width="300" height="250"/>

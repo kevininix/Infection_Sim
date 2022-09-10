@@ -7,12 +7,12 @@ Other settings include a mortality rate, a velocity randomizer (for random walk)
 
 **Simulation in action with the above settings** (graphical errors from the screen recorder used to make the gifs):
 
-<img src="/images/sim1.gif" alt="Animated gif of the simulation." width="300" height="250"/>
+<img src="/images/sim1.gif" align = "center" alt="Animated gif of the simulation." width="300" height="250"/>
 
 **Same simulation with randomize = False**
 
-<img src="/images/sim1_1.gif" alt="Animated gif of the simulation." width="300" height="250"/>
+<img src="/images/sim1_1.gif" align = "center" alt="Animated gif of the simulation." width="300" height="250"/>
 
 **With 70% of the population in quarantine**
 
-<img src="/images/sim2.gif" alt="Animated gif of the simulation." width="300" height="250"/>
+<img src="/images/sim2.gif" align = "center" alt="Animated gif of the simulation." width="300" height="250"/>
